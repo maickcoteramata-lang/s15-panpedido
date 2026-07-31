@@ -72,4 +72,4 @@ https://www.figma.com/design/K6MR1rObzMtf2YH0R5VlBR/PanPedido-Prototipo?node-id=
 
 ### Repositorio GitHub
 
-https://github.com/USUARIO/s15-panpedido
+https://github.com/maickcoteramata-lang/s15-panpedido.git
